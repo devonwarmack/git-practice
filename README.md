@@ -1,5 +1,5 @@
 # git-practice
 
-* abc
-* 12345
+* abcdefghijklmnopqrstuvwxyz
+* 1234567890
 * changes bro
